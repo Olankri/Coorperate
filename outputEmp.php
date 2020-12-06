@@ -16,5 +16,5 @@
     }
     echo ($result);
     mysqli_close($conn);
-	echo 'edit on local';    
+	echo 'edit on local'; //edit on website
     ?>
